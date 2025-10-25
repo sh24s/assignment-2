@@ -34,25 +34,25 @@ It showcases projects, skills, and contact information in a fun 8-bit style with
 
 ## Folder Structure
 assignment-2/
-├── README.md
-├── index.html
-├── css/
-│ └── styles.css
-├── js/
-│ └── script.js
-├── assets/
-│ ├── images/
-│ │ ├── mario.jpeg
-│ │ ├── star.png
-│ │ ├── block_svg.jpeg
-│ │ ├── to-doList.png
-│ │ └── timer.png
-│ └── sounds/
-│ └── mario_coin_sound.mp3
-├── docs/
-│ ├── ai-usage-report.md
-│ └── technical-documentation.md
-└── .gitignore
+├── README.md 
+├── index.html 
+├── css/ 
+│ └── styles.css 
+├── js/ 
+│ └── script.js 
+├── assets/ 
+│ ├── images/ 
+│ │ ├── mario.jpeg 
+│ │ ├── star.png 
+│ │ ├── block_svg.jpeg 
+│ │ ├── to-doList.png 
+│ │ └── timer.png 
+│ └── sounds/ 
+│ └── mario_coin_sound.mp3 
+├── docs/ 
+│ ├── ai-usage-report.md 
+│ └── technical-documentation.md 
+└── .gitignore 
 
 
 
