@@ -37,21 +37,21 @@ assignment-2/
 ├── README.md
 ├── index.html
 ├── css/
-│   └── styles.css
+│ └── styles.css
 ├── js/
-│   └── script.js
+│ └── script.js
 ├── assets/
-│   ├── images/
-│   │   ├── mario.jpeg
-│   │   ├── star.png
-│   │   ├── block_svg.jpeg
-│   │   ├── to-doList.png
-│   │   └── timer.png
-│   └── sounds/
-│       └── mario_coin_sound.mp3
+│ ├── images/
+│ │ ├── mario.jpeg
+│ │ ├── star.png
+│ │ ├── block_svg.jpeg
+│ │ ├── to-doList.png
+│ │ └── timer.png
+│ └── sounds/
+│ └── mario_coin_sound.mp3
 ├── docs/
-│   ├── ai-usage-report.md
-│   └── technical-documentation.md
+│ ├── ai-usage-report.md
+│ └── technical-documentation.md
 └── .gitignore
 
 
